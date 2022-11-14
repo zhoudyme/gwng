@@ -10,7 +10,7 @@
 
     <properties>
         <!-- spring版本号 -->
-        <spring.version>4.2.4.RELEASE</spring.version>
+        <spring.version>4.2.7.RELEASE</spring.version>
         <!--jackson版本号-->
         <jackson.version>2.11.0</jackson.version>
         <!--log4j版本号-->
